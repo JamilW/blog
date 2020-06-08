@@ -74,6 +74,11 @@ body {
   #fakeMenu {
     font-size: 18px;
   }
+
+  /* Navigation Menu Options */
+  #a1 {
+    color: black
+  }
   
   /* About image */
   .aboutimg {
