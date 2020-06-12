@@ -124,9 +124,22 @@ body {
     }
   }
 
+  /* Modal */
+  #myModal  {
+    font-size: 12px;
+    word-spacing: none;
+    font: Arial;
+    border: 1px solid black;
+    border-radius: 10px;
+    background: #99badd;
+    /* width: 100%;
+    height: auto; */
+  }
+
  h2 span  {
   font: 100px; 
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
   text-transform: uppercase;
   margin-top: 10px;
  } 
+
