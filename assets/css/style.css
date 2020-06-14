@@ -1,4 +1,4 @@
-body {
+body  {
   font-family: Arial;
   padding: 20px;
   background: #99badd;
@@ -6,7 +6,7 @@ body {
 
 /* Header/Blog Title */
 .header {
-  /* padding: 20px; */
+  padding: 20px;
   font-size: 52px;
   text-align: center;
   font-family: 'Lora', serif;
@@ -168,7 +168,6 @@ body {
   font: Arial;
   border: 1px solid black;
   border-radius: 10px;
-  background: #99badd;
   /* width: 100%;
   height: auto; */
 }
