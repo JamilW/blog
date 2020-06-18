@@ -6,7 +6,8 @@ body  {
 
 /* Header/Blog Title */
 .header {
-  padding: 20px;
+  padding: 30px;
+  padding-bottom: 30px;
   font-size: 52px;
   text-align: center;
   font-family: 'Lora', serif;
@@ -92,6 +93,7 @@ body  {
 .leftcolumn { 
   float: left;
   width: 70%;
+  margin-left: 10px;
 }
 
 /* Right column */
@@ -112,7 +114,6 @@ body  {
   background-color: rgba(0,0,0,0.3);
   border-radius: 10px;
   padding: 5px;
-  text-decoration: none;
 }
 
 /* Modal Links */
@@ -190,3 +191,6 @@ text-transform: uppercase;
 margin-top: 10px;
 } 
 
+#nav1 {
+  padding: 20px;
+}
